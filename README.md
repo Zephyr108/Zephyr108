@@ -18,6 +18,40 @@
 
 ---
 
+## Certificate and course list
+
+### Networking & Infrastructure
+
+* **EE.10 Qualification – Installation, Startup, and Maintenance of Teleinformatics Devices and Networks**
+  *Electronic Schools Complex in Lublin*
+* **EE.11 Qualification – Administration of Network Operating Systems and Computer Networks**
+  *Electronic Schools Complex in Lublin*
+* **Cisco Networking Basics**
+  *Lublin University of Technology*
+* **Cisco Devices and Initial Configuration**
+  *Lublin University of Technology*
+
+### Cybersecurity
+
+* **Cisco Network Security Certificate**
+  *Electronic Schools Complex in Lublin*
+* **Cisco Introduction to Cybersecurity**
+  *Lublin University of Technology*
+
+### Internet of Things
+
+* **Cisco Introduction to Internet of Things**
+  *Lublin University of Technology*
+
+### Language Certification
+
+* **LanguageCert Level 3 Certificate in ESOL International (C2)**
+  *LanguageCert Test of English*
+
+> Additional certifications and completed courses will be added over time.
+
+---
+
 ## Tech Stack
 
 <div align="center">
